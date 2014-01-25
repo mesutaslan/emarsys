@@ -1,4 +1,4 @@
 emarsys
 =======
 
-Emarsys tracking and integration library
+Emarsys tracking and integration library.
